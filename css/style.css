@@ -60,8 +60,13 @@ ul {
 /* This is the  background color for the links on hover */
 
 ul.topnav li a:hover {
+<<<<<<< HEAD
     background-color: #006699;
     padding: 10px;
+=======
+    background-color: #555;
+    padding: 25px;
+>>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
 }
 
 
@@ -82,7 +87,7 @@ head {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
     padding: 20px;
     margin: 0px;
     max-width: 100%;
@@ -109,8 +114,8 @@ sub {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: center;
-    font-size: 4em;
-    padding: 16px;
+    font-size: 3em;
+    padding: 10px;
     margin: 1px;
 }
 
@@ -119,7 +124,7 @@ sub1 {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: left;
-    font-size: 2.5em;
+    font-size: 1.75em;
     padding: 1px;
     margin: 20px;
 }
@@ -151,7 +156,7 @@ h5 {
 }
 
 h6 {
-    font-size: 1.5rem;
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     color: white;
     text-align: justify;
@@ -164,7 +169,7 @@ h6 {
 div.img {
     align-content: flex-end;
     margin: 5px;
-    padding: px;
+    padding: 0px;
     background-color: #448cff;
     width: 25em;
     display: inline-block;
@@ -262,7 +267,7 @@ a {
 div.desc {
     padding: 15px;
     text-align: center;
-    font-size: 2em;
+    font-size: 2.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
     display: inline-block;
@@ -278,7 +283,11 @@ div.img img {
 }
 
 div.text {
+<<<<<<< HEAD
     font-size: 1.75em;
+=======
+    font-size: 1.25em;
+>>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
     font-family: 'Open Sans', sans-serif;
     color: white;
     padding: 20px;
@@ -286,18 +295,30 @@ div.text {
 }
 
 div.text1 {
-    font-size: 2em;
+    font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
+<<<<<<< HEAD
     padding: 25px;
+=======
+    padding: 20px;
+>>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
     text-align: left;
 }
 
 button {
     font-size: 2em;
+<<<<<<< HEAD
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     background-color: #1169f7
+=======
+    color: #ffffff;
+   background-color: #1169f7;
+   text-shadow: -1px 1px #417cb8;
+   border: none;
+   padding: 2px;
+>>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
 }
 
 div.wrapper {
@@ -327,7 +348,7 @@ div.wrapper4 {
 }
 
 footer.page-footer {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     background-color: #1169f7;
     color: white;
@@ -358,14 +379,14 @@ footer.main {
 }
 .lib-panel .lib-row.lib-header {
     background-color: #FFFFFF;
-    font-size: 20px;
+    font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     padding: 10px 20px 0 20px;
 }
 .lib-panel .lib-row.lib-desc {
     position: relative;
     display: block;
-    font-size: 13px;
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
 }
 div.link {
