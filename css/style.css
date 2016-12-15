@@ -59,6 +59,7 @@ list-style-type: none;
 
 ul.topnav li a:hover {
     background-color: #555;
+    padding: 25px;
 }
 
 
@@ -79,7 +80,7 @@ head {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
     padding: 20px;
     margin: 0px;
     max-width: 100%;
@@ -106,8 +107,8 @@ sub {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: center;
-    font-size: 4em;
-    padding: 16px;
+    font-size: 3em;
+    padding: 10px;
     margin: 1px;
 }
 
@@ -116,7 +117,7 @@ sub1 {
     color: white;
     font-family: 'Work Sans', sans-serif;
     text-align: left;
-    font-size: 2.5em;
+    font-size: 1.75em;
     padding: 1px;
     margin: 1px;
 }
@@ -147,7 +148,7 @@ h5 {
 }
 
 h6 {
-    font-size: 1.5rem;
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     color: white;
     text-align: justify;
@@ -159,7 +160,7 @@ h6 {
 div.img {
     align-content: flex-end;
     margin: 5px;
-    padding: px;
+    padding: 0px;
     background-color: #448cff;
     width: 25em;
     display: inline-block;
@@ -259,7 +260,7 @@ a {text-decoration: none; color: white}
 div.desc {
     padding: 15px;
     text-align: center;
-    font-size: 2em;
+    font-size: 2.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
     display: inline-block;
@@ -275,27 +276,28 @@ div.img img {
 }
 
 div.text {
-    font-size: 2em;
+    font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
-    padding: 15px;
+    padding: 20px;
     text-align: justify;
 }
 
 div.text1 {
-    font-size: 2em;
+    font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
-    padding: 15px;
+    padding: 20px;
     text-align: left;
 }
 
 button {
     font-size: 2em;
-    font-family: 'Open Sans', sans-serif;
-    color: rgb(77, 81, 76);
-    text-align: center;
-    background-color: #1169f7
+    color: #ffffff;
+   background-color: #1169f7;
+   text-shadow: -1px 1px #417cb8;
+   border: none;
+   padding: 2px;
 }
 
 div.wrapper {
@@ -320,7 +322,7 @@ div.wrapper3 {
 }
 
 footer.page-footer {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     background-color: #1169f7;
     color: white;
@@ -351,14 +353,14 @@ footer.main {
 }
 .lib-panel .lib-row.lib-header {
     background-color: #FFFFFF;
-    font-size: 20px;
+    font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     padding: 10px 20px 0 20px;
 }
 .lib-panel .lib-row.lib-desc {
     position: relative;
     display: block;
-    font-size: 13px;
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
 }
 div.link {
