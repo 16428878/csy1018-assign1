@@ -18,19 +18,6 @@ ul.topnav {
     text-align: center;
 }
 
-div.container1 {
-    display: inline-block;
-    vertical-align: top;
-}
-
-div.container {
-    margin: 0px;
-}
-
-form {
-  text-align: left;
-  font-family: 'Open Sans', sans-serif;
-}
 
 /* Float the list items side by side */
 
@@ -56,18 +43,42 @@ ul.topnav li a {
     justify-content: flex-end;
 }
 
+
+/* This is the list Style for the links so that they are not blue and underlined */
+
 ul {
     list-style-type: none;
 }
 
 
-/* This is the  background color for the links on hover */
+/* This is the  background color and padding for the links on hover */
 
 ul.topnav li a:hover {
-
     background-color: #448cff;
     padding: 5px;
+}
 
+
+/* This is how items in container1 will be displayed and aligned vetically */
+
+div.container1 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+/* This is how items in container will be margined */
+
+div.container {
+    margin: 0px;
+}
+
+
+/* This is how text in form will be displayed and aligned */
+
+form {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -84,6 +95,9 @@ header {
     max-width: 100%;
 }
 
+
+/* This is the style for the head of the page */
+
 head {
     color: white;
     font-family: 'Work Sans', sans-serif;
@@ -94,12 +108,8 @@ head {
     max-width: 100%;
 }
 
-h2 {
-    position: absolute;
-    top: 150px;
-    left: 400px;
-    width: 100%;
-}
+
+/* This is the style for title using div class */
 
 div.title {
     background-color: black;
@@ -110,6 +120,9 @@ div.title {
     box-decoration-break: clone;
 }
 
+
+/* This is the style for the sub text */
+
 sub {
     background: #1169f7;
     color: white;
@@ -119,6 +132,9 @@ sub {
     padding: 1px;
     margin: 1px;
 }
+
+
+/* This is the style for the sub1 text */
 
 sub1 {
     background: #1169f7;
@@ -141,17 +157,42 @@ h1 {
 }
 
 
+/* This is the style for the header2 text */
+
+h2 {
+    background: #1169f7;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    text-align: left;
+    font-size: 2.25em;
+    padding: 1px;
+    margin: 20px;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    width: 100%;
+}
+
+
+/* This is the style for the header3 of the page */
+
 h4 {
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     color: white;
 }
 
+
+/* This is the style for the header5 of the page */
+
 h5 {
     font-size: 0.75em;
     font-family: 'Open Sans', sans-serif;
     margin: 0px;
 }
+
+
+/* This is the style for the header6 of the page */
 
 h6 {
     font-size: 1em;
@@ -162,16 +203,7 @@ h6 {
 }
 
 
-h2 {
-  background: #1169f7;
-  color: white;
-  font-family: 'Work Sans', sans-serif;
-  text-align: left;
-  font-size: 2.25em;
-  padding: 1px;
-  margin: 20px;
-  }
-/* This is the style for the images of the page */
+/* This is the style for the images of the page using div class*/
 
 div.img {
     align-content: flex-end;
@@ -182,33 +214,55 @@ div.img {
     display: inline-block;
 }
 
+
+/* This is the width set for feildset*/
+
 fieldset {
-  width: auto;
+    width: auto;
 }
+
+
+/* This is the display option used for the option list*/
+
 .option-list {
-  display: inline-block;
+    display: inline-block;
 }
+
+
+/* This is the style for the form */
 
 form {
-  border: solid white 5px;
-  padding: 1em;
-  color: white;
-text-align: center;
-margin-left:60px;
-margin-right:60px;
-
-
+    border: solid white 5px;
+    padding: 1em;
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 
+/* This is the font for the text area*/
+
+textarea {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* This is the margin for the form title*/
 
 .form-title {
-  margin-top: 0;
+    margin-top: 0;
 }
 
+
+/* This is the bottom margin the form group*/
+
 .form-group {
-  margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 }
+
+
+/* This is the style for the textbox using div class*/
 
 div.textbox {
     align-content: flex-end;
@@ -218,6 +272,9 @@ div.textbox {
     width: 100% display: inline-block;
 }
 
+
+/* This is the style for the textbox1 using div class*/
+
 div.textbox1 {
     align-content: flex-end;
     margin: 0px;
@@ -226,6 +283,9 @@ div.textbox1 {
     width: 50% display: inline-block;
     text-align: left;
 }
+
+
+/* This is the style for paragraph1 including animation*/
 
 p1 {
     -webkit-animation: color-change 2s infinite;
@@ -244,6 +304,9 @@ p1 {
         color: red;
     }
 }
+
+
+/* This is the style for paragraph2 including animation*/
 
 p2 {
     font-family: 'Kavoon', cursive;
@@ -264,6 +327,9 @@ p2 {
     }
 }
 
+
+/* This is the style for paragraph3 including animation*/
+
 p3 {
     font-family: 'Space Mono', monospace;
     -webkit-animation: color-change 2s infinite;
@@ -283,9 +349,15 @@ p3 {
     }
 }
 
+
+/* This is how items will be displayed in beside box using div class*/
+
 div.beside {
     display: inline-block;
 }
+
+
+/* This is how items will be displayed in beside1 box using div class*/
 
 div.beside1 {
     display: inline-block;
@@ -294,16 +366,23 @@ div.beside1 {
     text direction: none;
 }
 
+
+/* This is how links will remove default blue font and underline and replace with white font*/
+
 a {
     text-decoration: none;
     color: white
 }
 
+
+/* This is how video will adjust width*/
+
 video {
-
-width: 100%;
-
+    width: 100%;
 }
+
+
+/* This is how items will be dispalyed in description box using div class*/
 
 div.desc {
     padding: 15px;
@@ -314,76 +393,98 @@ div.desc {
     display: inline-block;
 }
 
+
+/* This is how images will hover using div class*/
+
 div.img:hover {
     border: 2px solid rgb(109, 99, 99);
 }
+
+
+/* This is how images will auto adjust  using div class*/
 
 div.img img {
     width: 100%;
     height: auto;
 }
 
+
+/* This is how text will be styled using div class*/
+
 div.text {
     font-size: 1.75em;
-
     font-family: 'Open Sans', sans-serif;
     color: white;
     padding: 20px;
     text-align: justify;
 }
 
+
+/* This is how text1 will be styled using div class*/
+
 div.text1 {
     font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     color: white;
-<<<<<<< HEAD
-    padding: 25px;
-=======
     padding: 20px;
->>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
     text-align: left;
 }
 
+
+/* This is how button will be styled */
+
 button {
     font-size: 2em;
-<<<<<<< HEAD
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-    background-color: #1169f7
-=======
-    color: #ffffff;
-   background-color: #1169f7;
-   text-shadow: -1px 1px #417cb8;
-   border: none;
-   padding: 2px;
->>>>>>> f5fb6ae662e67a41ea1f4362d38f6c3a5fc4263b
+    background-color: #1169f7;
+    text-shadow: -1px 1px #417cb8;
+    border: none;
+    padding: 2px;
 }
+
+
+/* This is how wrapper will text align and margin content using div class*/
 
 div.wrapper {
     text-align: center;
     margin: 0px;
 }
 
+
+/* This is how wrapper1 will text align and margin content using div class*/
+
 div.wrapper1 {
     text-align: right;
     margin: 0px;
 }
+
+
+/* This is how wrapper2 will text align and margin content using div class*/
 
 div.wrapper2 {
     text-align: left;
     margin: 0px;
 }
 
+
+/* This is how wrapper3 will text align and margin content using div class*/
+
 div.wrapper3 {
     align-content: center;
     margin: 0px;
 }
 
+
+/* This is how wrapper4 will text align and margin content using div class*/
+
 div.wrapper4 {
     text-align: center;
     align-content: center;
-
 }
+
+
+/* This is how footer of the footer page will be styled */
 
 footer.page-footer {
     font-size: 1.5em;
@@ -395,6 +496,9 @@ footer.page-footer {
     margin: 0px;
 }
 
+
+/* This is how body of the footer  will be styled */
+
 footer.body {
     display: flex;
     min-height: 100vh;
@@ -402,31 +506,45 @@ footer.body {
     margin: -20px;
 }
 
+
+/* This is how main footer  will be breakpoints using flex*/
+
 footer.main {
     flex: 1 0 auto;
 }
+
+
+/* This is how lib panel will margined at the bottom*/
 
 
 }
 .lib-panel {
     margin-bottom: -20px;
 }
+
+/* This is how lib panel image will alter size depnding on the resolution*/
 .lib-panel img {
     width: 100%;
     background-color: transparent;
 }
+
+/* This is how lib panel header will styled*/
 .lib-panel .lib-row.lib-header {
     background-color: #FFFFFF;
     font-size: 1.25em;
     font-family: 'Open Sans', sans-serif;
     padding: 10px 20px 0 20px;
 }
+
+/* This is how lib panel description will styled*/
 .lib-panel .lib-row.lib-desc {
     position: relative;
     display: block;
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* This is how links decoration will be removed using div class*/
 div.link {
     text-decoration: none !important;
 }
