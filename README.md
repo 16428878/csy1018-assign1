@@ -1,3 +1,8 @@
+### Name: Mohammed Rahim Ahmed Uddin
+### Student Number: 16428878
+### GitHub	‘live’ URL:  
+### Assignment	1:	Web	Development
+### Submission	Date: 14th January 2017
 # csy1018-assign1
 
 ## Web Development Assignment-1<br>
@@ -258,27 +263,34 @@
 
 #### The final model of good practice is to provide the users with help and instructions, this includes place holder in forms, telling the users what exactly needs to be inputted where and link buttons to get users to certain section s can be seen to aid the users and make their experience of the site better for it as it will allow for a smoother user experience.
 
+### Image editing and optimization
+
+#### In terms of image optimization and editing all images on the website where editing using several different programs including adobe photoshop when available but at most part an online editor called pixlr was used to reduce the size of the images to a more compressed size that would allow for the page to load faster but not destroy the quality of the image at the same time, below an example can be seen of the editor in use.
+
+![](readme-media/img-editor.png)
+
+
 ### Progression of Site
 
-### 1st Session
+### 1st Session (5hrs 30mins)
 
 #### In this session of creating the website the html page was set up and created for the index.html page, in addition to this the navigation bar was created, housing all the links for the other 4 pages and the image that spans the entire width was also added, the style has also been added to the css style sheet.
 
 ![](readme-media/session-1.png)
 
-### 2nd Session
+### 2nd Session (3hrs 10mins)
 
 #### In todays session, work was carried on from the index.html page, to create the basic page, today the footer of the website , which is a sticky footer was created, this includes a footer header, a pages column that includes internal links and a links column that includes external links to other sites, the styling of the footer has been done in the css style sheet.
 
 ![](readme-media/session-2.png)
 
-### 3rd Session
+### 3rd Session (6hrs 25mins)
 
 #### In todays session, work has been finished on the index.html page, as the 2 sub headers have rows of 4 boxes have been added, the first row being 4 images with header descriptions, and the second row having images, headers, text and buttons that links to other pages, the styling for the boxes have been added to the css style sheet that is linked.
 
 ![](readme-media/session-3.png)
 
-### 4th Session
+### 4th Session (6hrs 40mins)
 
 #### In todays session, the cv page has been completed, this has been done by copying the bulk of the code form the index.html page; to create the basis of the page, afterwards 6 extra sub headers and textbox have been added and unordered list have been written in all of them to write the information out for all the content on the cv page, the styling for the sub headers and textboxes and lists have been added to the css stylesheet.
 
@@ -294,7 +306,7 @@
 
 ![](readme-media/session-4-5.png)
 
-### 5th Session
+### 5th Session (4hrs 20mins)
 
 #### In todays session, the bio page has been completed, this was done by copying the bulk of the code form the index.html page; to create the basis of the page, afterwards the main image has been changed, the welcoming message text has been altered, then1 new sub header and text box with a unordered list has been added and the 4 image boxes with description have been edited to have different images and text, but no styling has had to be done therefore the stylesheet has not been touched today.
 
@@ -304,7 +316,7 @@
 
 ![](readme-media/session-5-2.png)
 
-### 6th Session
+### 6th Session (5hrs 45mins)
 
 #### In today session, the contact page has been created, in order to do this so quickly majority of the code ahs been brought across from the bio.html page and the main image and text has been edited, below that the sub header and textbox with unordered list where altered to include the contact information, apart form that the lengthily process today was adding another sub header and text box and creating the form, which includes 4 text fields, 1 option list, 1 text area and a submit button, but also place holders where added, this took the most time of todays session, apart from this , the css style sheet has added form styling to style the form to match the house style.
 
