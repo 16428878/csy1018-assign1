@@ -1,11 +1,16 @@
-### Name: Mohammed Rahim Ahmed Uddin
-### Student Number: 16428878
-### GitHub	‘live’ URL:  
-### Assignment	1:	Web	Development
-### Submission	Date: 14th January 2017
+# Name: Mohammed Rahim Ahmed Uddin
+
+# Student Number: 16428878
+
+# GitHub 'live' URL: <https://github.com/16428878/csy1018-assign1>
+
+# Assignment 1: Web Development
+
+# Submission Date: 14th January 2017
+
 # csy1018-assign1
 
-## Web Development Assignment-1<br>
+## Web Development Assignment-1
 
 ### Supporting Documentation
 
@@ -269,7 +274,6 @@
 
 ![](readme-media/img-editor.png)
 
-
 ### Progression of Site
 
 ### 1st Session (5hrs 30mins)
@@ -371,9 +375,10 @@ Below is the code that has been used form other sources to help create the websi
     </fieldset>
   ```
 
-### Web Development Project Code#
+### Web Development Project Code
 
 ### index.html
+
 ```
 <!DOCTYPE html>
 <html>
@@ -424,9 +429,9 @@ Below is the code that has been used form other sources to help create the websi
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>Facts About Me</sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!-- Below is 4 images that have descriptions, all hover-->
     <h5><div class="wrapper">
@@ -462,11 +467,11 @@ Below is the code that has been used form other sources to help create the websi
         </div>
 <!--Below is sub heading,centered-->
         <div class="wrapper">
-            <p>&nbsp;</p>
+            <p> </p>
             <sub>
 Explore More
 </sub>
-            <p>&nbsp;</p>
+            <p> </p>
         </div>
 <!--Below is 4 images, with description and link to specific pages, all hover-->
         <div class="img">
@@ -479,7 +484,7 @@ Explore More
     <div class="wrapper">
         <button class="button" <a> <a href="portfolio.html">More</a></button>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     </div>
     <div class="img">
         <a target="_blank" href="image/image2-cv.jpg">
@@ -491,7 +496,7 @@ Explore More
         <div class="wrapper">
             <button class="button" <a> <a href="cv.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -504,7 +509,7 @@ Explore More
         <div class="wrapper">
             <button class="button" <a> <a href="bio.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -517,9 +522,9 @@ Explore More
         <div class="wrapper">
             <button class="button" <a> <a href="contact.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     <!--Below is the footer of the webpage, this includes a header and 2 sets of 4 links for internal pages and external pages -->
     <footer class="page-footer">
         <div class="container">
@@ -558,8 +563,8 @@ Explore More
 </body>
 
 </html>
-
 ```
+
 ### cv.html
 
 ```
@@ -616,11 +621,11 @@ Explore More
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Personal details
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -659,11 +664,11 @@ Personal details
     </div>
     <!--Below is the sub heading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Education
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -690,11 +695,11 @@ Education
     </div>
     <!--Below is the subheading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Current Courses
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -715,11 +720,11 @@ Current Courses
     </div>
     <!--Below is the sub heading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Professional Experience
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text -->
     <div class="wrapper">
@@ -732,11 +737,11 @@ Professional Experience
     </div>
     <!--Below is the sub heading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Skills
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -773,11 +778,11 @@ Skills
     </div>
     <!--Below is the sub heading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
   Activities
   </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text -->
     <div class="wrapper">
@@ -788,11 +793,11 @@ Skills
     </div>
     <!--Below is the sub heading, centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Explore More
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is 4 images, with description and link to specific pages, all hover-->
     <h5>   <div class="wrapper">
@@ -806,7 +811,7 @@ Explore More
     <div class="wrapper">
         <button class="button" <a> <a href="portfolio.html">More</a></button>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     </div>
 
     <div class="img">
@@ -819,7 +824,7 @@ Explore More
         <div class="wrapper">
             <button class="button" <a> <a href="index.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -832,7 +837,7 @@ Explore More
         <div class="wrapper">
             <button class="button" <a> <a href="bio.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -846,10 +851,10 @@ Explore More
             <button class="button" <a> <a href="contact.html">More</a></button>
 
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     <!--Below is the footer of the webpage, this includes a header and 2 sets of 4 links for internal pages and external pages -->
     <footer class="page-footer">
         <div class="container">
@@ -887,8 +892,6 @@ Explore More
 
 
 </html>
-
-
 ```
 
 ### bio.html
@@ -947,11 +950,11 @@ Explore More
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 My Hobbies
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -966,10 +969,10 @@ My Hobbies
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>More Facts About Me
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!-- Below is 4 images that have descriptions, all hover-->
     <h5><div class="wrapper">
@@ -1004,11 +1007,11 @@ My Hobbies
         </div>
         <!--Below is the sub heading,centered-->
         <div class="wrapper">
-            <p>&nbsp;</p>
+            <p> </p>
             <sub>
     Explore More
   </sub>
-            <p>&nbsp;</p>
+            <p> </p>
         </div>
         <!--Below is 4 images, with description and link to specific pages, all hover-->
         <div class="wrapper">
@@ -1022,7 +1025,7 @@ My Hobbies
     <div class="wrapper">
         <button class="button" <a> <a href="portfolio.html">More</a></button>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     </div>
 
     <div class="img">
@@ -1035,7 +1038,7 @@ My Hobbies
         <div class="wrapper">
             <button class="button" <a> <a href="index.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1048,7 +1051,7 @@ My Hobbies
         <div class="wrapper">
             <button class="button" <a> <a href="cv.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1062,11 +1065,11 @@ My Hobbies
             <button class="button" <a> <a href="contact.html">More</a></button>
 
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     </div>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     <!--Below is the footer of the webpage, this includes a header and 2 sets of 4 links for internal pages and external pages -->
     <footer class="page-footer">
         <div class="container">
@@ -1101,9 +1104,8 @@ My Hobbies
 </body>
 
 </html>
-
-
 ```
+
 ### contact.html
 
 ```
@@ -1158,9 +1160,9 @@ My Hobbies
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>Contacts</sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format-->
     <div class="wrapper">
@@ -1184,16 +1186,16 @@ My Hobbies
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>Contact Form</sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that houses a form including 4 text inputs, 1 radio button option list, 1 text area and 1 submit button -->
     <div class="wrapper">
 
         <div class="textbox1">
             <form>
-                <p>&nbsp;</p>
+                <p> </p>
                 <div class="option-list">
                     <fieldset>
                         <legend>
@@ -1204,14 +1206,14 @@ My Hobbies
                         <label><input type="radio" name="rb1">Programming</label> <br>
                         <label><input type="radio" name="rb1">Other</label>
                     </fieldset>
-                    <p>&nbsp;</p>
+                    <p> </p>
                     <fieldset>
                         <legend>
                             <sub1>First name:</sub1>
                         </legend>
                         <input type="text" name="firstname" placeholder="First Name"><br>
                     </fieldset>
-                    <p>&nbsp;</p>
+                    <p> </p>
                     <fieldset>
                         <legend>
                             <sub1>Last name:</sub1>
@@ -1219,21 +1221,21 @@ My Hobbies
                         <input type="text" name="lasttname" placeholder="Last Name"><br>
                     </fieldset>
 
-                    <p>&nbsp;</p>
+                    <p> </p>
                     <fieldset>
                         <legend>
                             <sub1>Email:</sub1>
                         </legend>
                         <input type="text" name="email" placeholder="Email"><br>
                     </fieldset>
-                    <p>&nbsp;</p>
+                    <p> </p>
                     <fieldset>
                         <legend>
                             <sub1>Phone:</sub1>
                         </legend>
                         <input type="text" name="phone" placeholder="Phone Number"><br>
                     </fieldset>
-                    <p>&nbsp;</p>
+                    <p> </p>
                     <fieldset>
                         <legend>
                             <sub1>Message</sub1>
@@ -1242,18 +1244,18 @@ My Hobbies
                     </fieldset>
 
                 </div>
-                <p>&nbsp;</p>
-                <div class="button"><button class="button" <a> <a href="">Submit Your Message</a></button>  </div>
+                <p> </p>
+                <div class="button"><button class="button" <a> <a href="">Submit Your Message</a></button>  </div>
             </form>
         </div>
     </div>
     <!--Below is the sub heading,centered-->
     <h5>   <div class="wrapper">
-            <p>&nbsp;</p>
+            <p> </p>
             <sub>
     Explore More
   </sub>
-            <p>&nbsp;</p>
+            <p> </p>
         </div>
         <!--Below is 4 images, with description and link to specific pages, all hover-->
         <div class="wrapper">
@@ -1267,7 +1269,7 @@ My Hobbies
     <div class="wrapper">
         <button class="button" <a> <a href="portfolio.html">More</a></button>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     </div>
 
     <div class="img">
@@ -1280,7 +1282,7 @@ My Hobbies
         <div class="wrapper">
             <button class="button" <a> <a href="index.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1293,7 +1295,7 @@ My Hobbies
         <div class="wrapper">
             <button class="button" <a> <a href="cv.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1306,12 +1308,12 @@ My Hobbies
         <div class="wrapper">
             <button class="button" <a> <a href="bio.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     </div>
 
 
-    <p>&nbsp;</p>
+    <p> </p>
     <!--Below is the footer of the webpage, this includes a header and 2 sets of 4 links for internal pages and external pages -->
     <footer class="page-footer">
         <div class="container">
@@ -1348,9 +1350,8 @@ My Hobbies
 </body>
 
 </html>
-
-
 ```
+
 ### portfolio.html
 
 ```
@@ -1407,17 +1408,17 @@ My Hobbies
     </div>
     <!--Below is the sub heading,centered-->
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>
 Download My Projects
 </sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     <!--Below is the textbox, that house further sub headings and text in a listed format, also downloadable items are here -->
     <div class="wrapper">
         <div class="textbox1">
             <sub1>Clients Photoshop Documents</sub1><br>
-            <p>&nbsp;</p>
+            <p> </p>
             <div class="beside1">
                 <a href="download/menu1.png" download="Menu1">
                     <img border="0" src="image/image21-document.png" alt="Menu-photo taken from flaticon" width="50" height="50">
@@ -1438,7 +1439,7 @@ Download My Projects
             </div><br>
 
             <sub1>Clients Wireframe Document</sub1><br>
-            <p>&nbsp;</p>
+            <p> </p>
             <div class="beside1">
                 <a href="download/wireframes.pptx" download="wireframes">
                     <img border="0" src="image/image21-document.png" alt="Menu-photo taken from flaticon" width="50" height="50">
@@ -1449,9 +1450,9 @@ Download My Projects
     </div>
 
     <div class="wrapper">
-        <p>&nbsp;</p>
+        <p> </p>
         <sub>Video Made For Client</sub>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <h5><div class="wrapper3">
@@ -1466,11 +1467,11 @@ Your browser does not support HTML5 video.
         </div>
         <!--Below is the sub heading,centered-->
         <div class="wrapper">
-            <p>&nbsp;</p>
+            <p> </p>
             <sub>
     Explore More
   </sub>
-            <p>&nbsp;</p>
+            <p> </p>
         </div>
         <!--Below is 4 images, with description and link to specific pages, all hover-->
         <div class="wrapper">
@@ -1484,7 +1485,7 @@ Your browser does not support HTML5 video.
     <div class="wrapper">
         <button class="button" <a> <a href="bio.html">More</a></button>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     </div>
 
     <div class="img">
@@ -1497,7 +1498,7 @@ Your browser does not support HTML5 video.
         <div class="wrapper">
             <button class="button" <a> <a href="index.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1510,7 +1511,7 @@ Your browser does not support HTML5 video.
         <div class="wrapper">
             <button class="button" <a> <a href="cv.html">More</a></button>
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
 
     <div class="img">
@@ -1524,10 +1525,10 @@ Your browser does not support HTML5 video.
             <button class="button" <a> <a href="contact.html">More</a></button>
 
         </div>
-        <p>&nbsp;</p>
+        <p> </p>
     </div>
     </div>
-    <p>&nbsp;</p>
+    <p> </p>
     <!--Below is the footer of the webpage, this includes a header and 2 sets of 4 links for internal pages and external pages -->
     <footer class="page-footer">
         <div class="container">
@@ -1562,9 +1563,8 @@ Your browser does not support HTML5 video.
 </body>
 
 </html>
-
-
 ```
+
 ### style.css
 
 ```
@@ -2118,6 +2118,4 @@ footer.main {
 div.link {
     text-decoration: none !important;
 }
-
-
 ```
