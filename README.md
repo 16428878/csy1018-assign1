@@ -1,14 +1,4 @@
-# Name: Mohammed Rahim Ahmed Uddin
 
-# Student Number: 16428878
-
-# GitHub 'live' URL: <https://github.com/16428878/csy1018-assign1>
-
-# Assignment 1: Web Development
-
-# Submission Date: 14th January 2017
-
-# csy1018-assign1
 
 ## Web Development Assignment-1
 
